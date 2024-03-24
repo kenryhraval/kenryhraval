@@ -2,7 +2,7 @@
 - 👀 I’m interested in maths and coding
 - 🌱 I’m currently learning game development in Pygame and creative coding in p5.js
 - 💞️ I’m looking to collaborate on learning more about mobile app development
-- 📫 How to reach me ... henrijskravals98@gmail.com
+- 📫 How to reach me ... henrijskravals@gmail.com
 
 <!---
 kenryhraval/kenryhraval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
