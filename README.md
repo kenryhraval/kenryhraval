@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kenryhraval
+- 👋 Hi, I’m kenryhraval
 - 👀 I’m interested in maths and coding
-- 🌱 I’m currently learning game development in Pygame and creative coding in p5.js
-- 💞️ I’m looking to collaborate on learning more about mobile app development
+- 🌱 I’m currently learning Pygame and Flask libraries
+- 💞️ I’m looking to collaborate on learning more about machine learning
 - 📫 How to reach me ... henrijskravals@gmail.com
 
 <!---
